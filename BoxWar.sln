@@ -1,0 +1,23 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{179D3C81-16FF-8B9C-9FC5-A31C81DA7DC8}") = "BoxWar", "Assembly-CSharp.csproj", "{3A21A530-BA19-A16E-4FA3-5C0F1C1BCE0E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3A21A530-BA19-A16E-4FA3-5C0F1C1BCE0E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3A21A530-BA19-A16E-4FA3-5C0F1C1BCE0E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3A21A530-BA19-A16E-4FA3-5C0F1C1BCE0E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3A21A530-BA19-A16E-4FA3-5C0F1C1BCE0E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
